@@ -1,5 +1,5 @@
 {
-  "version": "v1.1.3-beta.1",
+  "version": "v1.0",
   "downloadUrl": "https://github.com/jakepanlilio2000/MJM_AutoUpdates/releases/download/v1.1.3-beta.1/Setup.exe",
-  "releaseNotes": "Bulk Order - Done\nVerify Admin (Modal Service) - Fixed\nReturn - Revamped\nUtang - Revamped\nPrinting Service - Partial (implemented)"
+  "releaseNotes": "Initial Release"
 }
