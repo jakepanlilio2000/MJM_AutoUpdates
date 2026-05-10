@@ -1,5 +1,5 @@
 {
-  "version": "v1.0",
-  "downloadUrl": "https://github.com/jakepanlilio2000/MJM_AutoUpdates/releases/download/v1.1.3-beta.1/Setup.exe",
-  "releaseNotes": "Initial Release"
+  "version": "v1.1",
+  "downloadUrl": "https://github.com/jakepanlilio2000/MJM_AutoUpdates/releases/download/v1.1/Setup.exe",
+  "releaseNotes": "- Fixed inconsistent UI elements such as buttons, dropdowns, and other interface components.\n- Fixed the Purchase Order search issue where product names were not being displayed.\n- Fixed Purchase Order search and Create Order search limitations that restricted results.\n- Added more searchable values and filters in Purchase Order search and Create Order for improved search flexibility."
 }
